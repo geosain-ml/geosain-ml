@@ -8,7 +8,7 @@ Telegram Gmail LinkedIn geosain-ml
 
 Languages I have used
 
-C C++ Clojure HTML5 Java JavaScript Python TypeScript SQL Swift
+C C++ HTML5 Java JavaScript Python TypeScript SQL Swift
 
 Some of the technologies I have worked with
 
