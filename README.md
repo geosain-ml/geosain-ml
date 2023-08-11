@@ -12,7 +12,7 @@ C C++ HTML5 Java JavaScript Python TypeScript SQL Swift
 
 Some of the technologies I have worked with
 
-Git GitHub Jira jQuery Linux Node.js React Java Spring TCP/IP XCode
+Git GitHub Linux Node.js React Java XCode Android python
 
 <!---
 geosain-ml/geosain-ml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
