@@ -1,6 +1,6 @@
 Hi, I’m Geosain-ML
 
-:mortar_board: Recent geologist with computer science master from ITB & Binus
+:mortar_board: Recent geologist with computer science expertised
 :test_tube: Finishing up my research in geoscience machine learning and preparing to make the industry AI transition 
 :ringed_planet: Looking forward to global net zero, zero poor people, Mars & the rest of space, and green nuclear fusion
 :mailbox: Ask me about geoscience , machine learning, python, web, full stack, or literally anything!
